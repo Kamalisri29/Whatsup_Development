@@ -8,3 +8,4 @@ AUTHOR : KAMALI E
 4.Attachment(Image,Audio,video,txt)
 5.adding audio call feature
 6.adding video call feature
+7.adding status so that user can play train games
